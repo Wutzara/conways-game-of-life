@@ -1,0 +1,9 @@
+[default]
+name=Vorgabe
+device=local
+runtime=host
+config-opts=
+run-opts=
+prefix=/home/gunibert/Projects/conways-game-of-life/
+app-id=
+default=true
